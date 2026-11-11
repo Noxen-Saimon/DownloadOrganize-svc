@@ -1,0 +1,6 @@
+# Visual Studio cache & IntelliSense
+.vs/
+
+# Build artifacts
+*.obj
+*.exe
